@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there 👋 I'm SI Xiaolong
 
+<p align="center">
+	<a href="https://github.com/Charmve" class="rich-diff-level-one">
+		<img src="https://github-readme-stats.vercel.app/api?username=Direct5dom&title_color=333&text_color=777" alt="Charmve's Stats" >
+	</a>
+</p>
 
+🛠️**Languages and Frameworks**
 
-SI_Xiaolong
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C" title="C"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" title="C++"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
 
-- 🛠️ Using 
-[![Python](http://img.shields.io/badge/%20-Python-%233572A5)](https://github.com/Direct5dom)
-[![C/C++](http://img.shields.io/badge/%20-C%2FC%2B%2B-%23B146C2)](https://github.com/Direct5dom)
-- 💻 
-[![Windows 11](http://img.shields.io/badge/Windows-11-%232CABFC)](https://github.com/Direct5dom)
-[![Ubuntu](http://img.shields.io/badge/Linux-Ubuntu-%23D34A38)](https://github.com/Direct5dom)
-[![Raspberry Pi OS](http://img.shields.io/badge/Linux-Raspberry%20Pi%20OS-%23C31C4A)](https://github.com/Direct5dom)
+💻**Tools and Environments**
+
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="Markdown" title="MarkDown"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" alt="Matlab" title="Matlab"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" title="Ubuntu"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Linux" title="Linux"></code>
+
 - 📧 SIXiaolong_GitHub@outlook.com
 - 🌱 I’m currently learning 
 	- DSA
@@ -21,7 +33,6 @@ SI_Xiaolong
 	- Renderer
 		- [ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer/wiki)
 
-[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=Direct5dom)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
