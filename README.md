@@ -1,7 +1,7 @@
 # Hi there 👋 I'm [SI Xiaolong](https://direct5dom.github.io/)
 
 <p align="center">
-	<a href="https://github.com/Charmve" class="rich-diff-level-one">
+	<a href="https://github.com/Direct5dom" class="rich-diff-level-one">
 		<img src="https://github-readme-stats.vercel.app/api?username=Direct5dom" alt="Charmve's Stats" >
 	</a>
 </p>
