@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+SI_Xiaolong
+
+- 🌱 I’m currently learning [North China University of Technology](http://www.ncut.edu.cn/)
+- 📫 How to reach me: SIXiaolong_GitHub@outlook.com
+
+	
+[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=Direct5dom)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Direct5dom/Direct5dom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
